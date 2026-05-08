@@ -1,0 +1,30 @@
+# Visual Studio / .NET build artifacts
+bin/
+obj/
+.vs/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+
+# NuGet packages
+packages/
+*.nupkg
+
+# Build platform folders
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+# ReSharper / Rider
+_ReSharper*/
+*.[Rr]e[Ss]harper
+.idea/
+
+# Windows shell artifacts
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
