@@ -330,7 +330,8 @@ namespace WirelineVdl
             // pe_query.py will give the exact property path.
             Pesgo1.PePlot.Allow.ContourColors = true;
             Pesgo1.PePlot.Allow.ContourColorsShadows = true;
-
+            Pesgo1.PePlot.Allow.RectHeatmap = true;   // new v10.0.0.26 Rectilinear Heatmap 
+            
             Pesgo1.PeColor.ContourColorBlends = 10;
 
             // Switch to user-defined colors mode (replaces .ContourColorSet preset)
