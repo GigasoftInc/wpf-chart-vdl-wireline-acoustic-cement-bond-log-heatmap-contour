@@ -5,7 +5,7 @@ Wave (VDL) acoustic log using PesgoWpf — adapted from the HeatmapSpectrogram
 sample with one key addition: a **contour-with-injection** technique that
 renders large-scale VDL data without smearing artifacts at any zoom level.
 
-![ProEssentials Wireline VDL with Contour Injection](docs/gigasoft-vdl-wireline-chart-wpf.png)
+![ProEssentials Wireline VDL with Contour Injection](docs/wpf-winforms-chart-vdl-wireline-rectilinear-heatmap-contour-direct3d.png)
 
 ---
 
